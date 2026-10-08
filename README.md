@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI RADAR 📡⚡
 
 > **Autonomous Personal AI Intelligence Platform**  
@@ -112,3 +113,6 @@ All 35 unit and integration tests pass with 100% success.
 - **Zero API Keys in Frontend**: All LLM interactions are isolated server-side.
 - **Strict Grounding**: Summaries are generated strictly from the collected text snippet; no hallucinated claims.
 - **Local Sovereignty**: User preferences and interaction histories reside on the local SQLite database.
+=======
+# radar-ai
+>>>>>>> 3b4ee00b26eb7c9daa1277dd4cee2302b7078ad5
